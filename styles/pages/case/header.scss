@@ -4,7 +4,7 @@
 }
 
 .case__media {
-  @include ratio(1366, 768);
+  @include ratio(1920, 1280);
 
   margin: auto;
   width: 100%;
